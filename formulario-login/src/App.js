@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Sistema de Autenticação</h2>
+      <h2>BEM VINDO</h2>
       <form onSubmit={handleLogin}>
         <div>
           <label>Login:</label>
